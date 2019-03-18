@@ -1,2 +1,2 @@
-# docker-laravel-nginx-php
-Docker running Nginx &amp; PHP-FPM
+# Docker Laravel NGINX + PHP-FPM
+Docker running Nginx &amp; PHP-FPM.
